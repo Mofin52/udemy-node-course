@@ -1,0 +1,11 @@
+<%- include('includes/header.ejs') %> <% if(users.length > 0) { %>
+<ul>
+  <% for(name of users) {%>
+  <li><%=name%></li>
+  <% } %>
+</ul>
+<a href="/">Create more users</a>
+<% } else { %>
+<h1>No users created yet!</h1>
+<p>Please, <a href="/">create one</a></p>
+<% } %> <%- include('includes/footer.ejs') %>

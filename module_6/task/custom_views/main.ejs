@@ -1,0 +1,11 @@
+<%- include('includes/header.ejs') %>
+<h1>Create a user:</h1>
+<form action="/users" method="POST">
+  <input type="text" name="name" />
+  <button type="submit">Create</button>
+</form>
+<% if(users.length > 0) { %>
+<a href="/users"
+  >List of <%=users.length%> user<%=users.length > 1 ? 's' : ''%></a
+>
+<% }%> <%- include('includes/footer.ejs') %>
