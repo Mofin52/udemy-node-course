@@ -26,4 +26,5 @@ Module 1 and Module 2 are introductory, so won't appear in the repo.
 - `module_21` - Pagination
 - `module_22` - Async requests
 - `module_23` - Payments
-- `module_24` - REST APIs: basics
+- `module_24` - REST APIs: theory & basics
+- `module_25` - REST APIs: practice
