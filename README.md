@@ -29,3 +29,4 @@ Module 1 and Module 2 are introductory, so won't appear in the repo.
 - `module_24` - REST APIs: theory & basics
 - `module_25` - REST APIs: practice
 - `module_26` - Async/await syntax
+- `module_27` - Websockets & Socket.io
