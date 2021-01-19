@@ -30,3 +30,5 @@ Module 1 and Module 2 are introductory, so won't appear in the repo.
 - `module_25` - REST APIs: practice
 - `module_26` - Async/await syntax
 - `module_27` - Websockets & Socket.io
+- `module_28` - GraphQL
+- `module_29` - App deployment
