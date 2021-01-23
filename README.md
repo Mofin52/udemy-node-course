@@ -32,3 +32,5 @@ Module 1 and Module 2 are introductory, so won't appear in the repo.
 - `module_27` - Websockets & Socket.io
 - `module_28` - GraphQL
 - `module_29` - App deployment
+- `module_30` - Testing Node.js applications
+- `module_33` - Typescript
