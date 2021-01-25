@@ -34,3 +34,4 @@ Module 1 and Module 2 are introductory, so won't appear in the repo.
 - `module_29` - App deployment
 - `module_30` - Testing Node.js applications
 - `module_33` - Typescript
+- `module_34` - Deno basics
